@@ -8,7 +8,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/Users/tkbiswas/Documents/Eclipse_Workspace/apache-tomcat-8.0.47/lib/catalina.jar"/>
-	<classpathentry kind="lib" path="/Users/tkbiswas/Documents/Eclipse_Workspace/apache-tomcat-8.0.47/lib/servlet-api.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
